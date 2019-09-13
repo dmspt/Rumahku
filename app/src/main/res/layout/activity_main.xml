@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:screenReaderFocusable="true"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/relative"
+        android:background="@color/transparantWhite40"
+        android:padding="@dimen/padding16">
+
+        <Button
+            android:id="@+id/btn_kompetensi"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/padding4"
+            android:background="@drawable/kompetensi"
+            android:gravity="center"
+            android:padding="@dimen/padding8" />
+
+        <Button
+            android:id="@+id/btn_materi"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/btn_kompetensi"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/padding4"
+            android:background="@drawable/materi"
+            android:gravity="center"
+            android:padding="@dimen/padding8" />
+
+        <Button
+            android:id="@+id/btn_evaluasi"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:layout_below="@+id/btn_materi"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_margin="4dp"
+            android:background="@drawable/evaluasi"
+            android:gravity="center"
+            android:padding="@dimen/padding8" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="85dp"
+        android:padding="@dimen/padding16">
+
+        <Button
+            android:id="@+id/btn_mute"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="@dimen/padding4"
+            android:background="@drawable/mute"
+            android:padding="@dimen/padding4" />
+
+        <Button
+            android:id="@+id/btn_bantuan"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/padding4"
+            android:background="@drawable/help"
+            android:padding="@dimen/padding4" />
+
+        <Button
+            android:id="@+id/btn_info"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/padding4"
+            android:background="@drawable/info"
+            android:padding="6dp" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/fragmentinfo"
+        android:layout_width="350dp"
+        android:layout_height="420dp"
+        android:layout_centerInParent="true"></FrameLayout>
+
+</RelativeLayout>

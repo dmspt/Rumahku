@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Rumahku</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instruksi">Petunjuk : </string>
+    <string name="petunjuk">1.\t Uji Pemahaman ini terdiri atas 10 soal pilihan ganda dengan KKM 70.\n  2.\t Klik tombol pilihan untuk menjawabnya.\n  3.\t Kemudian klik tombol mulai untuk mengerjakan.</string>
+    <string name="daftarPustaka">Taufina. 2017. Bermain di Lingkunganku. Subtema 1 Bermain di Lingkungan Rumah : Untuk SD/MI Kelas II. BSE Tematik Terpadu Kurikulum 2013 Edisi Revisi 2017.</string>
+    <string name="jenjang">Jenjang\t\t\t\t\t\t: SD/MI</string>
+    <string name="kelas">Kelas\t\t\t\t\t\t\t\t\t : II</string>
+    <string name="kurikukum">Kurikukum\t\t\t: 2013</string>
+    <string name="KD">Kompetensi Dasar dirumuskan untuk mencapai Kompetensi Inti. Rumusan Kompetensi Dasar dikembangkan dengan memperhatikan karakteristik dan kemampuan peserta didik, dan kekhasan masing - masing mata pelajaran. Kompetensi Dasar meliputi empat kelompok sesuai dengan pengelompokan Kompetensi Inti sebagai berikut :</string>
+    <string name="KD1">1. Kelompok 1 : kelompok Kompetensi Dasar sikap spiritual dalam rangka menjabarkan KI1;</string>
+    <string name="KD2">2. Kelompok 2 : kelompok Kompetensi Dasar sikap sosial dalam rangka menjabarkan KI2;</string>
+    <string name="KD3">3. Kelompok 3 : kelompok Kompetensi Dasar pengetahuan dalam rangka menjabarkan KI3;</string>
+    <string name="KD4">4. Kelompok 4 : kelompok Kompetensi Dasar keterampilan dalam rangka menjabarkan KI4;</string>
+    <string name="backsound">Backsound : \'\'Chimez\'\' Dan Henig, You Tube Audio Library Music</string>
+    <string name="bernyanyi">Ketika bernyanyi, kita mengeluarkan bunyi beraturan.\nBunyi beraturan disebut nada.\nAda nada yang panjang dan ada yang pendek.\nPanjang pendek nada dapat dihitung.\nSatuan hitungannya yaitu ketukan.\nPerhatikan panjang pendek nada berikut!\nNada 2 ketuk | 7 . | 6 . |\n\t\t\tAda 1 buah titik di belakangnya. \n\t\t\tJadi, nadanya diperpanjang sebanyak 1 ketuk.\nNada 1 ketuk | 5 6 5 3 | 2 3 2 1 |\n\t\t\t\tTidak memiliki titik atau garis di atasnya.</string>
+    <string name="pengamatan">Beni membuat 2 buah perahu kertas.\nTiur juga membuat 2 buah perahu kertas.\nKemudian, ayah juga membuat 2 buah perahu kertas lagi.\nJika digabungkan, berapa jumlah perahu semuanya?</string>
+    <string name="bermainperahu">Bermain Perahu Kertas</string>
+    <string name="perahukertas">Beni sangat senang bermain perahu kertas.\nPermainan ini sangatlah sederhana.\nSatu lembar kertas bisa menghasilkan sebuah perahu.\nPerahu yang telah selesai dibuat diapungkan di dalam baskom berisi air.\nSelain itu juga bisa diapungkan pada genangan air di saat hujan turun.\nPerahu dapat berlayar dengan bantuan angin.\nBeni sangat menyukai permainan ini.</string>
+    <string name="bermainsimpai">Bermain Simpai</string>
+    <string name="bermainsimpaiteks">Tahukah teman-teman, apakah simpai itu?\nPernahkah teman-teman memainkannya?\nSimpai adalah alat permainan yang berbentuk lingkaran.\nSimpai terbuat dari rotan.\nSimpai dapat dipakai untuk bermain dan berolahraga.\nCara memainkannya dengan memutar simpai di pinggang.\nKemudian, pinggang digoyangkan mengikuti putaran simpai tersebut.\nPermainan ini dapat dilakukan secara bersama-sama.\nPemenangnya adalah pemain yang dapat mempertahankan putaran simpai paling lama.</string>
+    <string name="menghitungpistol">Beni mempunyai 1 pistol air.\nEdo juga mempunyai 1 pistol air.\nTiba-tiba Udin datang dan juga membawa 1 pistol air.\nBerapa jumlah pistol air semuanya?</string>
+    <string name="sama">Sama artinya dengan :</string>
+</resources>
